@@ -27,6 +27,10 @@ coverage
 *.sln
 *.sw?
 
+# 3D files
+.3dm
+.vti
+
 # Yarn
 .yarn
 .yarn/*
